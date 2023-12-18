@@ -1,0 +1,45 @@
+.blanco{
+    color: white;
+}
+
+.gris{
+    background-color: #f0f0f0;
+}
+
+.blue{
+    color: blue;
+}
+
+.red{
+    background-color: red;
+}
+
+h1{
+    text-decoration: underline;
+    text-align: center;
+    background-color: black;
+    color: yellow;
+}
+
+footer{
+    background-color: darkblue;
+    color: white;
+}
+
+#GUILLERMITO{
+    color: beige;
+    background-color: aquamarine;
+}
+
+#ANTHONY{
+    color: aqua;
+    background-color: rgb(173, 149, 13);
+}
+
+.selectorPorClase{
+    text-decoration: line-through;
+}
+
+p{
+    color: turquoise;
+}
